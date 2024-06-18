@@ -1,0 +1,4 @@
+endpoint,email,password,,,
+api/login/qa,test1@gmail.com,TEST1,,,
+api/login/reg,test2@gmail.com,TEST2,,,
+api/login/prod,test3@gmail.com,TEST3,,,
